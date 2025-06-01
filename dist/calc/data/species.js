@@ -9011,7 +9011,7 @@ var PLA_PATCH = {
 };
 var SV_PATCH = {
     Bisharp: { nfe: true },
-    Cresselia: { types: ['Fairy'], bs: { df: 200, sd: 200 } },
+    Cresselia: { types: ['Fairy'], bs: { df: 180, sd: 180 } },
     Dunsparce: { nfe: true },
     Duraludon: { nfe: true },
     Girafarig: { nfe: true },
